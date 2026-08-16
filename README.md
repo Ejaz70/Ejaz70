@@ -183,7 +183,7 @@ Turning ideas into **modern, fast, responsive** and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=06b6d4&line=ec4899&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ejaz70&bg_color=0d1117&color=06b6d4&line=ec4899&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
