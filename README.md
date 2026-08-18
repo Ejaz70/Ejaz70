@@ -269,12 +269,12 @@ Turning ideas into **modern, fast, responsive** and
 
 | 🌐 **Platform** |                    🔗 **Profile**                    |
 | :-------------: | :--------------------------------------------------: |
-|    💻 GitHub    | [My GitHub](https://github.com/Ejaz70/Ejaz70) |
-|   💼 LinkedIn   |           [My LinkedIn](https://www.linkedin.com/in/ejaz-ahmad-994712262/)           |
-|   🌍 Portfolio  |          [My Portfolio](https://ejazmir.netlify.app/)          |
-|    🚀 Upwork    |             [My Upwork](https://www.upwork.com/freelancers/~0102b6387ca2e1dae3?mp_source=share)             |
-|    🎯 Fiverr    |             [My Fiverr](https://www.fiverr.com/s/jyvv2Zo)             |
-|     📧 Email    |      [Contact Me](mailto:ejaz70207@gmail.com)     |
+|    💻 GitHub    | (https://github.com/Ejaz70/Ejaz70) |
+|   💼 LinkedIn   |           (https://www.linkedin.com/in/ejaz-ahmad-994712262/)           |
+|   🌍 Portfolio  |          (https://ejazmir.netlify.app/)          |
+|    🚀 Upwork    |             (https://www.upwork.com/freelancers/~0102b6387ca2e1dae3?mp_source=share)             |
+|    🎯 Fiverr    |             (https://www.fiverr.com/s/jyvv2Zo)             |
+|     📧 Email    |      (mailto:ejaz70207@gmail.com)     |
 
 </div>
 
