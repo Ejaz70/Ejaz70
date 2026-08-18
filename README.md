@@ -165,9 +165,9 @@ Turning ideas into **modern, fast, responsive** and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ejaz70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz70&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -175,7 +175,7 @@ Turning ideas into **modern, fast, responsive** and
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Ejaz70&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
