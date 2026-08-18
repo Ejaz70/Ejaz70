@@ -74,9 +74,7 @@ Turning ideas into **modern, fast, responsive** and
 
 <br><br>
 
----
-
-# 🧩 Tech Arsenal
+🧩 Tech Arsenal
 
 <br>
 
