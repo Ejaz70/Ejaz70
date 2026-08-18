@@ -8,11 +8,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ejaz70&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=EC4899" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Ejaz70?label=FOLLOWERS&style=for-the-badge&color=EC4899" alt="Followers"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&color=FACC15" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Ejaz70?label=STARS&style=for-the-badge&color=FACC15" alt="Stars"/>
 
 </div>
 
