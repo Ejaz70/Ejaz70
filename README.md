@@ -237,27 +237,27 @@ Turning ideas into **modern, fast, responsive** and
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Ejaz70/Ejaz70">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ejaz-ahmad-994712262">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ejaz70207@gmail.comn">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://ejazmir.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_UPWORK_URL">
+<a href="https://www.upwork.com/freelancers/~0102b6387ca2e1dae3?mp_source=share">
 <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
-<a href="YOUR_FIVERR_URL">
+<a href="https://www.fiverr.com/s/jyvv2Zo">
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
